@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+如果有天我们湮没在人潮中,庸碌一生,那是因为我们没有努力要活得丰盛。
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=devjared&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
